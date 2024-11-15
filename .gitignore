@@ -42,7 +42,7 @@ lerna-debug.log*
 .vercel
 
 # bolt
-.bolt
+/.bolt/
 
 # typescript
 *.tsbuildinfo
